@@ -29,3 +29,4 @@ static int longestIncreasingSubsequence(int arr[], int n){
     
     return getAns(arr,n,0,-1,dp);
 }
+// basic
