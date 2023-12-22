@@ -12,7 +12,7 @@ class Solution {
         profit = Math.max(0 + findProfit(prices,ind+1,0,n,dp), -prices[ind] + findProfit(prices,ind+1,1,n,dp));
       }
       if(buy == 1){
-        profit = Math.max(0 + findProfit(prices,ind+1,1,n,dp), prices[ind] + findProfit(prices,ind+2,0,n,dp));
+    /    profit = Math.max(0 + findProfit(prices,ind+1,1,n,dp), prices[ind] + findProfit(prices,ind+2,0,n,dp));
       }
       return dp[ind][buy] = profit;
 
