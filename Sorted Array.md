@@ -1,4 +1,4 @@
-Code
+//Code
 Solution 1: (Brute Force)
 class Solution {
     public int[] twoSum(int[] nums, int target) {
