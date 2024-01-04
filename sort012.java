@@ -1,5 +1,5 @@
 import java.util.*;
-//
+// //
 public class Main {
     public static void sortArray(ArrayList<Integer> arr, int n) {
         int cnt0 = 0, cnt1 = 0, cnt2 = 0;
