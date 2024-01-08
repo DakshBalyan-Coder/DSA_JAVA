@@ -1,3 +1,3 @@
 # DSA_JAVA
 
-MY EXPERIENCE WITH PROBLEMS
+This repository contains all the questions i encountered during my java learning phase.
