@@ -23,4 +23,4 @@ class Solution {
        int[] arr = takeinput();
        print(arr);
     }
-}
+}//
