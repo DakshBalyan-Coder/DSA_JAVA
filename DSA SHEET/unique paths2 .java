@@ -14,7 +14,7 @@ class Solution {
             if(obstacleGrid[i][0]==1)
             {
                 dp[i][0] = 0;
-            }
+            } //
             else
             {
                 dp[i][0] = dp[i-1][0];
